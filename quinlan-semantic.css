@@ -1,0 +1,18 @@
+/*
+* Cara Quinlan
+* Due date
+* semantic elements
+*/
+
+/* The universal selector */
+
+
+body {}
+p {color: #173668}
+header {background-color: cadetblue}
+h1 {background-color: #7faaef}
+main {background-color: white}
+footer {background-color: azure}
+a:link {color:palegreen;
+        text-decoration: none;}
+a:visited {color: skyblue}
